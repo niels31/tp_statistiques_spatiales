@@ -1,0 +1,3 @@
+[submodule "geo-countries"]
+	path = geo-countries
+	url = https://github.com/datasets/geo-countries
